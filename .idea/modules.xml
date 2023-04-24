@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AprendiendoJava.iml" filepath="$PROJECT_DIR$/.idea/AprendiendoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Egg/Egg.iml" filepath="$PROJECT_DIR$/Egg/Egg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio1Poo/Ejercicio1Poo.iml" filepath="$PROJECT_DIR$/Ejercicio1Poo/Ejercicio1Poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicios/Ejercicios.iml" filepath="$PROJECT_DIR$/Ejercicios/Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjerciciosVectores/EjerciciosVectores.iml" filepath="$PROJECT_DIR$/EjerciciosVectores/EjerciciosVectores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen/Examen.iml" filepath="$PROJECT_DIR$/Examen/Examen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen Tarchini Matias 1/Examen Tarchini Matias 1.iml" filepath="$PROJECT_DIR$/Examen Tarchini Matias 1/Examen Tarchini Matias 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen Tarchini Matias 2/Examen Tarchini Matias 2.iml" filepath="$PROJECT_DIR$/Examen Tarchini Matias 2/Examen Tarchini Matias 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen Tarchini Matias2/Examen Tarchini Matias2.iml" filepath="$PROJECT_DIR$/Examen Tarchini Matias2/Examen Tarchini Matias2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication1/JavaApplication1.iml" filepath="$PROJECT_DIR$/JavaApplication1/JavaApplication1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Libro/Libro.iml" filepath="$PROJECT_DIR$/Libro/Libro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramacionCompetitiva/ProgramacionCompetitiva.iml" filepath="$PROJECT_DIR$/ProgramacionCompetitiva/ProgramacionCompetitiva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tarchini Matias 2/Tarchini Matias 2.iml" filepath="$PROJECT_DIR$/Tarchini Matias 2/Tarchini Matias 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TarchiniMatiasPOO/TarchiniMatiasPOO.iml" filepath="$PROJECT_DIR$/TarchiniMatiasPOO/TarchiniMatiasPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appStock/appStock.iml" filepath="$PROJECT_DIR$/appStock/appStock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eje1/eje1.iml" filepath="$PROJECT_DIR$/eje1/eje1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examenTarchiniMatiasNicolas1/examenTarchiniMatiasNicolas1.iml" filepath="$PROJECT_DIR$/examenTarchiniMatiasNicolas1/examenTarchiniMatiasNicolas1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prueba/prueba.iml" filepath="$PROJECT_DIR$/prueba/prueba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vectores/vectores.iml" filepath="$PROJECT_DIR$/vectores/vectores.iml" />
+    </modules>
+  </component>
+</project>

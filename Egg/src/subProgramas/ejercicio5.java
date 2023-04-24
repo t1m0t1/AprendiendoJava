@@ -20,7 +20,7 @@ public class ejercicio5 {
         // TODO code application logic here
         Scanner teclado = new Scanner(System.in);
         int[][] matriz = {{0, -2, 4}, {2, 0, 2}, {-4, -2, 0}};
-        int[][] matriz2 = {{1, -2, 3}, {4, 55, 6}, {7, 8, 9}};
+        int[][] matriz2 = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
         int[][] matrizT = new int[3][3];
         int[][] matrizT2 = new int[3][3];
         int[][] matrizAT = new int[3][3];
@@ -28,7 +28,7 @@ public class ejercicio5 {
 
         for (int i = 0; i < matrizT.length; i++) {
             for (int j = 0; j < matrizT.length; j++) {
-                int res;
+                
                 matrizT[j][i] = matriz[i][j];
                 matrizT2[j][i] = matriz2[i][j];
 
@@ -37,7 +37,6 @@ public class ejercicio5 {
 
         for (int i = 0; i < matrizT.length; i++) {
             for (int j = 0; j < matrizT.length; j++) {
-
                 matrizAT[i][j] = matrizT[i][j] * (-1);
                 matrizAT2[i][j] = matrizT2[i][j] * (-1);
             }
@@ -52,11 +51,10 @@ public class ejercicio5 {
         boolean isAntisimetrica = true;
         for (int i = 0; i < matriz1.length; i++) {
             for (int j = 0; j < matriz1.length; j++) {
-                if (matriz1[i][j] == matriz2[i][j]) {
-                } else {
+                if (matriz1[i][j] != matriz2[i][j]) {
+                
                     isAntisimetrica = false;
-                }
-
+                } 
             }
         }
         return isAntisimetrica;
