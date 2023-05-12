@@ -1,11 +1,14 @@
 package Class;
 
 public class Libro {
+
+    //atributos
     private int ISBN;
     private String Titulo;
     private String Autor;
     private int NumeroDePaginas;
 
+    //constructores
     public Libro (){
 
     }
@@ -16,6 +19,7 @@ public class Libro {
         this.NumeroDePaginas = NumeroDePaginas;
     }
 
+    //getters
     public int getISBN() {
         return ISBN;
     }
@@ -31,7 +35,8 @@ public class Libro {
     public int getNumeroDePaginas() {
         return NumeroDePaginas;
     }
-
+    
+    //seters
     public void setISBN(int ISBN) {
         this.ISBN = ISBN;
     }
@@ -47,7 +52,7 @@ public class Libro {
     public void setNumeroDePaginas(int numeroDePaginas) {
         NumeroDePaginas = numeroDePaginas;
     }
-
+    //mostrar objeto
     @Override
     public String toString() {
         return "Libro{" +
@@ -57,4 +62,6 @@ public class Libro {
                 ", NumeroDePaginas=" + NumeroDePaginas +
                 '}';
     }
+
+
 }
